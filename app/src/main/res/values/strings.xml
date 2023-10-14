@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Food Tourist</string>
+    <string name="home">Home</string>
+    <string name="my_profile">Profile</string>
+    <string name="favorites">Favourites</string>
+    <string name="faqs">FAQs</string>
+    <string name="logout">Logout</string>
+    <string name="prompt_email">Enter Your Email</string>
+    <string name="prompt_password">Enter Your Password</string>
+    <string name="action_sign_in">Log In</string>
+    <string name="forgot_password"><u>Forgot Password</u></string>
+    <string name="register_yourself"><u>Not a Member? Register Now</u></string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="prompt_mobile">Enter Your Mobile Number</string>
+    <string name="prompt_name">Enter Your Name</string>
+    <string name="prompt_address">Enter Your Address</string>
+    <string name="preference_file_name">Customer Preference</string>
+    <string name="openDrawer">Open Drawer</string>
+    <string name="closeDrawer">Close Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="restaurant_name">Restaurant</string>
+    <string name="no_favorites">You do not have any favourite restaurant</string>
+    <string name="name">Name</string>
+    <string name="dummy_phone">098xxxxxxx</string>
+    <string name="email">xyz@abc.com</string>
+    <string name="address">Delivery Address</string>
+    <string name="faq_answer_one">A.1 You will be taught using pre-recorded videos and text tutorials. The training has
+        quizzes, assignments, and tests to help you learn better. At the end of the training, you will attempt a project
+        to get hands-on practice of what you learn during your training.
+    </string>
+    <string name="faq_answer_two">A.2 As this is a purely online training program, you can choose to learn at any time
+        of the day. We will recommend a pace to be followed throughout the program, but the actual timings and learning
+        hours can be decided by students according to their convenience.
+    </string>
+    <string name="faq_answer_four">A.4 We recommend spending 10-12 hours per week. However, the actual learning hours
+        can be decided by you as per your convenience.
+    </string>
+    <string name="faq_answer_three">A.3 The training duration is of 6 weeks.</string>
+    <string name="faq_answer_five">A.5 You can choose your preferred batch date while signing up for the training
+        program.
+    </string>
+    <string name="faq_answer_six">A.6 You will be able to download the certificate once you complete your training and
+        take the final test.
+    </string>
+</resources>
